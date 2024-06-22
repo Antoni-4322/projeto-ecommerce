@@ -21,3 +21,6 @@ perfil:
     update
     login
     logout
+
+
+<link rel="stylesheet" href="{% static "produto/css/style.css" %}">
